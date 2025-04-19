@@ -17,6 +17,8 @@ public class CustomerMicroServiceApplication {
 		SpringApplication.run(CustomerMicroServiceApplication.class, args);
 		
 		System.out.println("-----------customer main service------");
+
+int i=10;
 	}
 
 }
