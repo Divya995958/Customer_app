@@ -20,6 +20,8 @@ public class CustomerMicroServiceApplication {
 
 int i=10;
 String name="divya";
+int j=20;
+
 	}
 
 }
