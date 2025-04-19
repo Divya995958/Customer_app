@@ -18,14 +18,6 @@ public class CustomerMicroServiceApplication {
 		
 		System.out.println("-----------customer main service------");
 
-int i=10;
-
-String name="divya";
-int j=20;
-
-
-String name="divya";m
-		boolean status=false;
 	}
 
 }
