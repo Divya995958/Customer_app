@@ -19,6 +19,7 @@ public class CustomerMicroServiceApplication {
 		System.out.println("-----------customer main service------");
 
 String name="Divya";
+String place="hyd";
 
 	}
 
