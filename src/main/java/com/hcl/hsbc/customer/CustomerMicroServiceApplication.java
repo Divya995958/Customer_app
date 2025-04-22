@@ -13,9 +13,17 @@ import ch.qos.logback.core.recovery.ResilientSyslogOutputStream;
 @SpringBootApplication
 public class CustomerMicroServiceApplication {
 
+<<<<<<< Updated upstream
 //103 logit of jiragit
 public void m3(){
 //gjkjh}
+=======
+//jira 102
+public void m2(){
+//logic
+
+}
+>>>>>>> Stashed changes
 
 	public static void main(String[] args) {
 		SpringApplication.run(CustomerMicroServiceApplication.class, args);
@@ -26,5 +34,4 @@ String name="Divya";
 String place="hyd";
 
 	}
-
 }
