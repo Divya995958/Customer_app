@@ -13,6 +13,10 @@ import ch.qos.logback.core.recovery.ResilientSyslogOutputStream;
 @SpringBootApplication
 public class CustomerMicroServiceApplication {
 
+//103 logit of jiragit
+public void m3(){
+//gjkjh}
+
 	public static void main(String[] args) {
 		SpringApplication.run(CustomerMicroServiceApplication.class, args);
 		
