@@ -32,7 +32,7 @@ public void m2(){
 
 String name="Divya";
 String place="hyd";
-String name1="Java";
+String name2="Java";
 
 	}
 }
